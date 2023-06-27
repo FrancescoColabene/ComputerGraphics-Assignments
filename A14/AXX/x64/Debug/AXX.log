@@ -1,0 +1,31 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (AXX.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  A14.cpp
+C:\Users\frapo\OneDrive\Documenti\AssignmentsCG\A14\Starter.hpp(300,22): warning C4099: 'Texture': type name first seen using 'struct' now seen using 'class'
+C:\Users\frapo\OneDrive\Documenti\AssignmentsCG\A14\Starter.hpp(207,8): message : see declaration of 'Texture'
+C:\Users\frapo\OneDrive\Documenti\AssignmentsCG\A14\Starter.hpp(301,23): warning C4099: 'Pipeline': type name first seen using 'struct' now seen using 'class'
+C:\Users\frapo\OneDrive\Documenti\AssignmentsCG\A14\Starter.hpp(241,8): message : see declaration of 'Pipeline'
+C:\Users\frapo\OneDrive\Documenti\AssignmentsCG\A14\Starter.hpp(302,34): warning C4099: 'DescriptorSetLayout': type name first seen using 'struct' now seen using 'class'
+C:\Users\frapo\OneDrive\Documenti\AssignmentsCG\A14\Starter.hpp(233,8): message : see declaration of 'DescriptorSetLayout'
+C:\Users\frapo\OneDrive\Documenti\AssignmentsCG\A14\Starter.hpp(303,28): warning C4099: 'DescriptorSet': type name first seen using 'struct' now seen using 'class'
+C:\Users\frapo\OneDrive\Documenti\AssignmentsCG\A14\Starter.hpp(280,8): message : see declaration of 'DescriptorSet'
+C:\Users\frapo\OneDrive\Documenti\AssignmentsCG\A14\Starter.hpp(304,31): warning C4099: 'VertexDescriptor': type name first seen using 'struct' now seen using 'class'
+C:\Users\frapo\OneDrive\Documenti\AssignmentsCG\A14\Starter.hpp(162,8): message : see declaration of 'VertexDescriptor'
+C:\Users\frapo\OneDrive\Documenti\AssignmentsCG\A14\Starter.hpp(1522,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\frapo\OneDrive\Documenti\AssignmentsCG\A14\Starter.hpp(1813,16): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\frapo\OneDrive\Documenti\AssignmentsCG\A14\Starter.hpp(1814,16): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\frapo\OneDrive\Documenti\AssignmentsCG\A14\Starter.hpp(2573,48): warning C4267: '=': conversion from 'size_t' to 'uint32_t', possible loss of data
+C:\Users\frapo\OneDrive\Documenti\AssignmentsCG\A14\TextMaker.hpp(9,483): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\Users\frapo\OneDrive\Documenti\AssignmentsCG\A14\TextMaker.hpp(102,21): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\frapo\OneDrive\Documenti\AssignmentsCG\A14\TextMaker.hpp(111,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\frapo\OneDrive\Documenti\AssignmentsCG\A14\TextMaker.hpp(112,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\frapo\OneDrive\Documenti\AssignmentsCG\A14\TextMaker.hpp(113,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\frapo\OneDrive\Documenti\AssignmentsCG\A14\TextMaker.hpp(114,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+  AXX.vcxproj -> C:\Users\frapo\OneDrive\Documenti\AssignmentsCG\A14\x64\Debug\A14.exe

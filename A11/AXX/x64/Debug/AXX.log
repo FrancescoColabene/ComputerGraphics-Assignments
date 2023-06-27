@@ -1,0 +1,36 @@
+﻿  A11.cpp
+C:\Users\frapo\OneDrive\Documenti\AssignmentsCG\A11\AXX\Starter.hpp(278,20): warning C4099: 'Model': type name first seen using 'struct' now seen using 'class'
+C:\Users\frapo\OneDrive\Documenti\AssignmentsCG\A11\AXX\Starter.hpp(171,8): message : see declaration of 'Model'
+C:\Users\frapo\OneDrive\Documenti\AssignmentsCG\A11\AXX\Starter.hpp(279,22): warning C4099: 'Texture': type name first seen using 'struct' now seen using 'class'
+C:\Users\frapo\OneDrive\Documenti\AssignmentsCG\A11\AXX\Starter.hpp(189,8): message : see declaration of 'Texture'
+C:\Users\frapo\OneDrive\Documenti\AssignmentsCG\A11\AXX\Starter.hpp(280,23): warning C4099: 'Pipeline': type name first seen using 'struct' now seen using 'class'
+C:\Users\frapo\OneDrive\Documenti\AssignmentsCG\A11\AXX\Starter.hpp(223,8): message : see declaration of 'Pipeline'
+C:\Users\frapo\OneDrive\Documenti\AssignmentsCG\A11\AXX\Starter.hpp(281,34): warning C4099: 'DescriptorSetLayout': type name first seen using 'struct' now seen using 'class'
+C:\Users\frapo\OneDrive\Documenti\AssignmentsCG\A11\AXX\Starter.hpp(215,8): message : see declaration of 'DescriptorSetLayout'
+C:\Users\frapo\OneDrive\Documenti\AssignmentsCG\A11\AXX\Starter.hpp(282,28): warning C4099: 'DescriptorSet': type name first seen using 'struct' now seen using 'class'
+C:\Users\frapo\OneDrive\Documenti\AssignmentsCG\A11\AXX\Starter.hpp(259,8): message : see declaration of 'DescriptorSet'
+C:\Users\frapo\OneDrive\Documenti\AssignmentsCG\A11\AXX\Starter.hpp(1500,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\frapo\OneDrive\Documenti\AssignmentsCG\A11\AXX\Starter.hpp(1788,16): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\frapo\OneDrive\Documenti\AssignmentsCG\A11\AXX\Starter.hpp(1789,16): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\frapo\OneDrive\Documenti\AssignmentsCG\A11\AXX\Starter.hpp(1879,39): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=unsigned int
+          ]
+C:\Users\frapo\OneDrive\Documenti\AssignmentsCG\A11\AXX\Starter.hpp(2234,48): warning C4267: '=': conversion from 'size_t' to 'uint32_t', possible loss of data
+C:\Users\frapo\OneDrive\Documenti\AssignmentsCG\A11\AXX\TextMaker.hpp(9,483): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\Users\frapo\OneDrive\Documenti\AssignmentsCG\A11\AXX\TextMaker.hpp(95,21): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\frapo\OneDrive\Documenti\AssignmentsCG\A11\AXX\TextMaker.hpp(104,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\frapo\OneDrive\Documenti\AssignmentsCG\A11\AXX\TextMaker.hpp(105,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\frapo\OneDrive\Documenti\AssignmentsCG\A11\AXX\TextMaker.hpp(106,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\frapo\OneDrive\Documenti\AssignmentsCG\A11\AXX\TextMaker.hpp(107,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  AXX.vcxproj -> C:\Users\frapo\OneDrive\Documenti\AssignmentsCG\A11\x64\Debug\A11.exe

@@ -1,0 +1,9 @@
+# useless directories
+A00/
+# visualstudio stuff
+.vs/
+*.suo
+*.user
+*.sln.docstates
+# forse...
+*.pdb

@@ -1,0 +1,17 @@
+﻿  A01.cpp
+C:\Users\frapo\OneDrive\Desktop\Uni fra\CG - Computer Graphics\Assignment\A01\A01.cpp(1699,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\frapo\OneDrive\Desktop\Uni fra\CG - Computer Graphics\Assignment\A01\A01.cpp(2246,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\frapo\OneDrive\Desktop\Uni fra\CG - Computer Graphics\Assignment\A01\triangles.hpp(21,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\frapo\OneDrive\Desktop\Uni fra\CG - Computer Graphics\Assignment\A01\triangles.hpp(22,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\frapo\OneDrive\Desktop\Uni fra\CG - Computer Graphics\Assignment\A01\triangles.hpp(24,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\frapo\OneDrive\Desktop\Uni fra\CG - Computer Graphics\Assignment\A01\triangles.hpp(26,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\frapo\OneDrive\Desktop\Uni fra\CG - Computer Graphics\Assignment\A01\triangles.hpp(28,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\frapo\OneDrive\Desktop\Uni fra\CG - Computer Graphics\Assignment\A01\triangles.hpp(29,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\frapo\OneDrive\Desktop\Uni fra\CG - Computer Graphics\Assignment\A01\triangles.hpp(31,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\frapo\OneDrive\Desktop\Uni fra\CG - Computer Graphics\Assignment\A01\triangles.hpp(33,1): warning C4305: 'argument': truncation from 'double' to 'float'
+  Generating code
+  2 of 3290 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    15 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  A01.vcxproj -> C:\Users\frapo\OneDrive\Documenti\AssignmentsCG\A01\x64\Release\A01.exe
