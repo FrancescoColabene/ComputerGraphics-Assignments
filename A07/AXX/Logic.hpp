@@ -40,7 +40,7 @@ void GameLogic(Assignment07 *A, float Ar, glm::mat4 &ViewPrj, glm::mat4 &World) 
 
 	// Game Logic implementation
 	// Current Player Position - static variables make sure that their value remain unchanged in subsequent calls to the procedure
-	static glm::vec3 playerPosition = StartingPosition, oldPos = StartingPosition, newPos = StartingPosition, newPos2 = StartingPosition;
+	static glm::vec3 playerPosition = StartingPosition, oldPos = StartingPosition, newPos = StartingPosition;
 
 	// To be done in the assignment
 	glm::mat4 ViewMatrix, ProjectionMatrix, WorldMatrix;
@@ -98,7 +98,7 @@ void GameLogic(Assignment07 *A, float Ar, glm::mat4 &ViewPrj, glm::mat4 &World) 
 	if (updatePos) {
 		newPos = (oldPos * exp(-LAMBDAMOV * deltaT)) + playerPosition * (1 - exp(-LAMBDAMOV * deltaT));
 		oldPos = newPos;
-		if (oldPos == playerPosition) {
+		if (glm::length((playerPosition - oldPos)) < (DEADZONE/50)) {
 			updatePos = false;
 		}
 	}
